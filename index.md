@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Digital Garden
 attachment: true
 dataview: true
 share: true
